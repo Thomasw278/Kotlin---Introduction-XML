@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="country">Country</string>
+    <string name="user_settings">User settings</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur.</string>
+    <string name="personal_info">Personal info</string>
+    <string name="notifikasi">Notifications</string>
+    <string name="weekly_report">Weekly reports</string>
+    <string name="pull_request">Pull requests</string>
+    <string name="deployment_triggers">Deployment triggers</string>
+    <string name="security">Security</string>
+    <string name="security_desc">Run security check upon log in</string>
+    <string name="less">Less</string>
+    <string name="more">More</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
